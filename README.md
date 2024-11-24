@@ -1,4 +1,4 @@
-# Sesiones de python básico
+# Sesiones de Python básico
 Aquí podrán encontrar las sesiones.
 
 ```sh
